@@ -1,0 +1,2 @@
+"I will never lie " 5 *s
+"Io" 10 *s 
