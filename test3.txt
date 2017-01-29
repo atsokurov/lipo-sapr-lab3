@@ -1,0 +1,4 @@
+"Make me think that you can beat this record " 300 +n " times faster than your rival" +s
+"How much " 370 +n " dollars please" +s
+"Is anybody can count " 1 +n " from " +s 274 +n " in procents" +s
+"Vsem privet eto plus" 100500 +n
